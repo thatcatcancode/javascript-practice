@@ -5,9 +5,10 @@ Proving advanced JavaScript concepts with unit tests.
 
 Jasmine tests are written to affirm the code snippets in various JavaScript books/resources. 
 
-The point is two-fold: 
-1. Provide an interactive way to learn (text books are soooo boring) 
-2. Facilitate a deeper understanding of the JavaScript language. If you can compose an expectation and it passes, then you probably have a good grasp of the concept you are testing. If not, maybe you need to re-read. 
+<ol>The point is two-fold: 
+<li>Provide an interactive way to learn. (Text books are soooo boring!!!) </li>
+<li>Facilitate a deeper understanding of the JavaScript language. If you can compose an expectation and it passes, then you probably have a good grasp of the concept you are testing. If not, maybe you need to re-read. : )</li>
+</ol>
 
 #### How to install and Use
 
