@@ -1,0 +1,32 @@
+{
+  "name": "javascript-practice",
+  "version": "0.0.0",
+  "description": "Proving advanced JavaScript concepts with unit tests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "grunt jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thatgirlcancode/javascript-practice.git"
+  },
+  "keywords": [
+    "javascript",
+    "learn",
+    "testing",
+    "tdd",
+    "jasmine",
+    "grunt"
+  ],
+  "author": "Leila Adams",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/thatgirlcancode/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/thatgirlcancode/javascript-practice",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jasmine": "^0.6.5",
+    "grunt-contrib-watch": "^0.6.1"
+  }
+}

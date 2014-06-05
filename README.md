@@ -1,4 +1,4 @@
-JavaScript Practice
+The Proof is in the JavaScript Pudding
 ==========
 
-Practicing advanced JavaScript concepts through test-driven development 
+Proving advanced JavaScript concepts with unit tests.
