@@ -5,7 +5,8 @@ Proving advanced JavaScript concepts with unit tests.
 
 Jasmine tests are written to affirm the code snippets in various JavaScript books/resources. 
 
-<ol>The point is two-fold: 
+The purpose is two-fold: 
+<ol>
 <li>Provide an interactive way to learn. (Text books are soooo boring!!!) </li>
 <li>Facilitate a deeper understanding of the JavaScript language. If you can compose an expectation and it passes, then you probably have a good grasp of the concept you are testing. If not, maybe you need to re-read. : )</li>
 </ol>
@@ -31,12 +32,12 @@ npm install
 npm test
 ```
 
-#### Resources:  
+#### Resources
 - [The Principles of Object-Oriented JavaScript by Nicholas Zakas](http://www.amazon.com/Principles-Object-Oriented-JavaScript-Nicholas-Zakas/dp/1593275404)
 
 #### Contributions
 
-([Open a Github issue](https://github.com/thatgirlcancode/javascript-practice/issues/new)) - the pros, cons, and everything in between. 
+[Open a Github issue](https://github.com/thatgirlcancode/javascript-practice/issues/new)
 
 #### Inspiration
 Credits to [Weston Platter](https://github.com/westonplatter) for a similar project he started at [Denver Code Club](http://www.meetup.com/Denver-Code-Club/) .
