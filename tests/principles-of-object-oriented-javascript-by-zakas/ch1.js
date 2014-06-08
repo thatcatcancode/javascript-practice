@@ -86,4 +86,27 @@ describe("Chapter 1 Specs", function(){
 		person.name = 'Tim';
 		expect(person.name === 'Tim').toBe(true);
 	});
+
+	it("There are at least 6 built-in reference types in JavaScript", function(){
+		expect(true).toBe(true);
+	});
+
+	// it("Using an object literal is the same as creating a new object with a constructor.", function(){
+	// 	var bookLiteral = {
+	// 		title: "The Jungle Book",
+	// 		year: 1976
+	// 	};
+	// 	var bookConstructor = new Object();
+	// 	bookConstructor.title = "The Jungle Book";
+	// 	bookConstructor.year = 1976;
+	// 	expect(instanceof bookLiteral === instanceof bookConstructor).toBe(true);
+	// Can't prove this by comparing objects because they point to different objects in memory and will never equal each other
+	// });
+
+	it("Function constructors aren't recognized by JavaScript debuggers and act as a black box in your app. " +
+		"Therefore, you should always define functions using function literals.", function(){
+			expect(true).toBe(true);
+		});
+
+	
 });

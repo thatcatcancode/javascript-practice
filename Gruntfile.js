@@ -2,12 +2,12 @@ module.exports = function(grunt){
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'), 
     jasmine: {
-      specs: "./resources/**/*.js" 
+      specs: "./tests/**/*.js" 
     },
   
     watch: {
       scripts: {
-        files: "./resources/**/*.js", 
+        files: "./tests/**/*.js", 
         tasks: ["jasmine"], 
         options: {
           interrupt: true
